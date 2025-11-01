@@ -16,9 +16,9 @@ Between 2016 and 2017, in Los Angeles*, the number of request raised for Non-eme
 
 ### Viusalizations
 ![Mean Time To Resolve(MTTR) per Agency in 2016-2017](images/6.png)
+** *NOTE: < 1 day for MTTR = 0 days**
 ![Average Number of requests for each type 2016-2017](images/9.png)
 ![MTTR for each request type](images/11.png)
-** *NOTE: < 1 day for MTTR = 0 days**
 
 #### Key Findings
 1. BSS, BSL, RAP are take a long time to resolve issues (+4 days).
